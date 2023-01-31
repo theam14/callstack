@@ -1,0 +1,1 @@
+/bin/clang-13.0.1 -lstdc++ -Wall -O2 -Wpedantic -g -rdynamic CMakeFiles/callstack.dir/src/main.cpp.o -o callstack 

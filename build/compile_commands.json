@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/theam/development/projects/cpp/callstack/build",
+  "command": "/bin/clang-13.0.1   -lstdc++ -Wall -O2 -Wpedantic -g -std=gnu++17 -o CMakeFiles/callstack.dir/src/main.cpp.o -c /home/theam/development/projects/cpp/callstack/src/main.cpp",
+  "file": "/home/theam/development/projects/cpp/callstack/src/main.cpp"
+}
+]
